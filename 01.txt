@@ -1,10 +1,1 @@
-##include <iostream>
-
-int main() {
-    int n; // Number of rows in the table
-    std::cout << "Enter the number of rows: ";
-    std::cin >> n;
-
-    // Print the tsdfasdfasdf
-}
-sfsd
+changeed me
