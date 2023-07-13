@@ -1,0 +1,29 @@
+[1mdiff --git a/01.txt b/01.txt[m
+[1mindex 7d08f55..4446daf 100644[m
+[1m--- a/01.txt[m
+[1m+++ b/01.txt[m
+[36m@@ -1,19 +1,5 @@[m
+[31m-##include <iostream>[m
+[31m-[m
+[31m-int main() {[m
+[31m-    int n; // Number of rows in the table[m
+[31m-    std::cout << "Enter the number of rows: ";[m
+[31m-    std::cin >> n;[m
+[31m-[m
+[31m-    // Print the table header[m
+[31m-    std::cout << "Number\tSquare\tCube" << std::endl;[m
+[31m-[m
+[31m-    // Print the table rows[m
+[31m-    for (int i = 1; i <= n; i++) {[m
+[31m-        int square = i * i;[m
+[31m-        int cube = i * i * i;[m
+[31m-        std::cout << i << "\t" << square << "\t" << cube << std::endl;[m
+[31m-    }[m
+[31m-[m
+[31m-    return 0;[m
+[31m-}[m
+[32m+[m[32mdsfsgsga[m
+[32m+[m[32msdg[m
+[32m+[m[32msdg[m
+[32m+[m[32ms[m
+[32m+[m[32mgsdg[m
